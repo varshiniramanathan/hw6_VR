@@ -13,8 +13,8 @@ if __name__ == '__main__':
 
     # Format and process data
     # User may change these lines if visualizing differently
-    DP_chr17 = convert_matrices.make_matr_chr(DP_lr, 'chr17')
-    HSC_chr17 = convert_matrices.make_matr_chr(HSC_lr, 'chr17')
+    DP_chr17 = convert_matrices.make_matr_chr(DP_lr, 'chr17', win=10)
+    HSC_chr17 = convert_matrices.make_matr_chr(HSC_lr, 'chr17', win=10)
 
     # Plot Data
     # User may change these lines if visualizing differently
