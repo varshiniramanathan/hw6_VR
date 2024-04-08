@@ -19,4 +19,4 @@ USAGE:
 - 2. Data can be stored in any directory, as long as that directory is specified in exec.py
 - 3. Dependencies: pandas, numpy, matplotlib
 
-[1]
+[1] Hu, G. et al. Transformation of Accessible Chromatin and 3D Nucleome Underlies Lineage Commitment of Early T Cells. Immunity 48, 227-242.e8 (2018). https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE79422
